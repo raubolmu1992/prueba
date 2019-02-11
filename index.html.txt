@@ -1,0 +1,7 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="uft-8"/>
+    <title>DISEÑOS DE SITIOS WEB - (301122A_611)</title>
+  </head>
+</html>
